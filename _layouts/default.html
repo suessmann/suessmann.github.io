@@ -11,7 +11,7 @@
               <h1>
                 Ilya Zisman
               </h1>
-              <p>Hiya! I am an MSc student at Higher School of Economics and a Research Scientist at Tinkoff. My passion is Deep Reinforcement Learning in all its diversity. Previously I worked at <a href="https://www.jetbrains.com/research/">JetBrains Research</a>, <a href="https://www.tuhh.de/oem/institut/institut">Hamburg University of Technology</a> and Robert Bosch R&D</a>.
+              <p>Hi! I'm an MSc student at Higher School of Economics and a Research Scientist at Tinkoff. My passion is Deep Reinforcement Learning in all its diversity. Previously I worked at <a href="https://www.jetbrains.com/research/">JetBrains Research</a>, <a href="https://www.tuhh.de/oem/institut/institut">Hamburg University of Technology</a> and Robert Bosch R&D</a>.
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="https://mailhide.io/e/7QJzNxrI">mail</a> &nbsp;/&nbsp;
@@ -53,6 +53,9 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
+              {% if post.pdf %}
+              <a href="{{post.pdf}}">pdf</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
@@ -75,9 +78,6 @@
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
-              {% endif %}
-              {% if post.pdf %}
-              <a href="{{post.pdf}}">pdf</a> /
               {% endif %}
               <p></p>
               <!-- {{ post.excerpt }} -->
