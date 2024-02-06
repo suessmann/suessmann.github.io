@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Emergence of In-Context Reinforcement Learning from Noise Distillation"
+date:   2024-02-05 22:21:59 +00:00
+image: /images/yess.png
+categories: research
+author: "Leo Keselman"
+authors: "<strong>Ilya Zisman</strong>, Vladislav Kurenkov, Alexander Nikulin, Viacheslav Sinii, Sergey Kolesnikov"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2312.12275
+website: https://leonidk.github.io/fmb-plus
+code: https://github.com/leonidk/fmb-plus
+---
+We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. ffff
