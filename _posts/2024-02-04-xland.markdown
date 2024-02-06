@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX"
+date:   2024-02-05 22:21:59 +00:00
+image: /images/xland.png
+categories: research
+author: "Ilya Zisman"
+authors: "Alexander Nikulin, Vladislav Kurenkov, <strong>Ilya Zisman</strong>, Artem Agarkov, Viacheslav Sinii, Sergey Kolesnikov"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2312.12044
+# website: null
+code: https://github.com/corl-team/xland-minigrid
+---

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "In-Context Reinforcement Learning for Variable Action Spaces"
+date:   2024-02-05 22:21:59 +00:00
+image: /images/h-ad.png
+categories: research
+author: "Ilya Zisman"
+authors: "Viacheslav Sinii, Alexander Nikulin, Vladislav Kurenkov, <strong>Ilya Zisman</strong>, Sergey Kolesnikov"
+venue: "arXiv"
+arxiv: https://arxiv.org/pdf/2312.13327
+# website: null
+code: null
+---

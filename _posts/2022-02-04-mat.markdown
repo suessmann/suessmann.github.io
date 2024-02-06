@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Machine learning models for photonic crystals band diagram prediction and gap optimisation"
+date:   2022-02-05 22:21:59 +00:00
+image: /images/bang-gaps.png
+categories: research
+author: "Ilya Zisman"
+authors: "Alexander Nikulin, <strong>Ilya Zisman</strong>, Manfred Eich, A.Y. Petrov, Alexander Itin"
+venue: "Photonics and Nanostructures - Fundamentals and Applications"
+# arxiv: https://arxiv.org/pdf/2312.13327
+pdf: https://www.sciencedirect.com/science/article/abs/pii/S1569441022000864
+# website: null
+code: null
+---
