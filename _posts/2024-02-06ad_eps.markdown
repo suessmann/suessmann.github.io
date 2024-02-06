@@ -2,13 +2,13 @@
 layout: post
 title:  "Emergence of In-Context Reinforcement Learning from Noise Distillation"
 date:   2024-02-05 22:21:59 +00:00
-image: /images/ad_vareps.png
+image: /images/yess.png
 categories: research
 author: "Ilya Zisman"
 authors: "<strong>Ilya Zisman</strong>, Vladislav Kurenkov, Alexander Nikulin, Viacheslav Sinii, Sergey Kolesnikov"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2312.12275
-code: null
+# code: null
 ---
 
 h
