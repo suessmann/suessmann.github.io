@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "In-Context Reinforcement Learning for Variable Action Spaces"
-date:   2024-02-05 22:21:59 +00:00
-image: /images/h-ad.png
+title:  "Mediated Multi-Agent Reinforcement Learning"
+date:   2023-02-05 22:21:59 +00:00
+image: /images/med.jpg
 categories: research
 author: "Ilya Zisman"
-authors: "Viacheslav Sinii, Alexander Nikulin, Vladislav Kurenkov, <strong>Ilya Zisman</strong>, Sergey Kolesnikov"
+authors: "Dmitry Ivanov, <strong>Ilya Zisman</strong>, Kirill Chernyshev"
 venue: "arXiv"
 arxiv: https://arxiv.org/pdf/2312.13327
 # website: null
