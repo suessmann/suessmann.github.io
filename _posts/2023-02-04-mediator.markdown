@@ -6,7 +6,7 @@ image: /images/med.jpg
 categories: research
 author: "Ilya Zisman"
 authors: "Dmitry Ivanov, <strong>Ilya Zisman</strong>, Kirill Chernyshev"
-venue: "arXiv"
+venue: "AAMAS"
 arxiv: https://arxiv.org/pdf/2312.13327
 # website: null
 code: null
